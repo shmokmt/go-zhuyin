@@ -1,5 +1,8 @@
 # go-zhuyin
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/shmokmt/go-zhuyin.svg)](https://pkg.go.dev/github.com/shmokmt/go-zhuyin)
+[![Test](https://github.com/shmokmt/go-zhuyin/actions/workflows/go.yml/badge.svg)](https://github.com/shmokmt/go-zhuyin/actions/workflows/go.yml)
+
 A utility tool that convert Chinese characters to zhuyin（a.k.a bopomofo）.
 
 ## Usage
