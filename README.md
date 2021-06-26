@@ -11,6 +11,8 @@ A utility tool that convert Chinese characters to zhuyin（a.k.a bopomofo）.
 package main
 
 import (
+	"fmt"
+
 	"github.com/shmokmt/go-zhuyin"
 )
 
