@@ -23,6 +23,6 @@ jobs:
         with:
           version: latest
           args: release --rm-dist
-          work_dir: ./cmd/zhuyin
+          workdir: ./cmd/zhuyin
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
