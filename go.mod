@@ -1,4 +1,4 @@
-module github.com/go-zhuyin
+module github.com/shmokmt/go-zhuyin
 
 go 1.16
 

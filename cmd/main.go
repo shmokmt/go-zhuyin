@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/go-zhuyin"
+	"github.com/shmokmt/go-zhuyin"
 )
 
 func main() {
