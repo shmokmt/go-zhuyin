@@ -1,6 +1,6 @@
 module github.com/shmokmt/go-zhuyin
 
-go 1.17
+go 1.19
 
 require (
 	github.com/localvar/zhuyin v0.0.0-20190929024715-20324b23ad5c
