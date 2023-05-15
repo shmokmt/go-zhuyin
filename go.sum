@@ -1,4 +1,4 @@
 github.com/localvar/zhuyin v0.0.0-20190929024715-20324b23ad5c h1:hi0KQSSwF9OvRROiEZTC5zGF3vXG8zqTSgZInDKMzzs=
 github.com/localvar/zhuyin v0.0.0-20190929024715-20324b23ad5c/go.mod h1:qnZ0HoitFTJPQXzCfAB8KjiGIACFwkgwkGkaPw76Zzs=
-github.com/mozillazg/go-pinyin v0.19.0 h1:p+J8/kjJ558KPvVGYLvqBhxf8jbZA2exSLCs2uUVN8c=
-github.com/mozillazg/go-pinyin v0.19.0/go.mod h1:iR4EnMMRXkfpFVV5FMi4FNB6wGq9NV6uDWbUuPhP4Yc=
+github.com/mozillazg/go-pinyin v0.20.0 h1:BtR3DsxpApHfKReaPO1fCqF4pThRwH9uwvXzm+GnMFQ=
+github.com/mozillazg/go-pinyin v0.20.0/go.mod h1:iR4EnMMRXkfpFVV5FMi4FNB6wGq9NV6uDWbUuPhP4Yc=
